@@ -1,0 +1,6 @@
+F:\PROJECTS\GIT\GitRepository\TestRepositoryName\TestConsoleApplication\TestConsoleApplication\bin\Debug\TestConsoleApplication.exe.config
+F:\PROJECTS\GIT\GitRepository\TestRepositoryName\TestConsoleApplication\TestConsoleApplication\bin\Debug\TestConsoleApplication.exe
+F:\PROJECTS\GIT\GitRepository\TestRepositoryName\TestConsoleApplication\TestConsoleApplication\bin\Debug\TestConsoleApplication.pdb
+F:\PROJECTS\GIT\GitRepository\TestRepositoryName\TestConsoleApplication\TestConsoleApplication\obj\Debug\TestConsoleApplication.csprojResolveAssemblyReference.cache
+F:\PROJECTS\GIT\GitRepository\TestRepositoryName\TestConsoleApplication\TestConsoleApplication\obj\Debug\TestConsoleApplication.exe
+F:\PROJECTS\GIT\GitRepository\TestRepositoryName\TestConsoleApplication\TestConsoleApplication\obj\Debug\TestConsoleApplication.pdb
